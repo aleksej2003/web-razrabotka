@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+.boxes {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: space-around;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+.images {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 5%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: space-around;
+}
